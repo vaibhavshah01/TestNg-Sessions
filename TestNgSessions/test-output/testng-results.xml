@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="119" started-at="2020-04-11T07:57:26 BST" finished-at="2020-04-11T07:57:26 BST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="119" started-at="2020-04-11T07:57:26 BST" finished-at="2020-04-11T07:57:26 BST">
+      <class name="TestNgTestSessions.TestNgTest.InvocationCountTest">
+        <test-method status="PASS" signature="sum()[pri:0, instance:TestNgTestSessions.TestNgTest.InvocationCountTest@6e6c3152]" name="sum" duration-ms="18" started-at="2020-04-11T07:57:26 BST" finished-at="2020-04-11T07:57:26 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+        <test-method status="PASS" signature="sum()[pri:0, instance:TestNgTestSessions.TestNgTest.InvocationCountTest@6e6c3152]" name="sum" duration-ms="3" started-at="2020-04-11T07:57:26 BST" finished-at="2020-04-11T07:57:26 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+        <test-method status="PASS" signature="sum()[pri:0, instance:TestNgTestSessions.TestNgTest.InvocationCountTest@6e6c3152]" name="sum" duration-ms="4" started-at="2020-04-11T07:57:26 BST" finished-at="2020-04-11T07:57:26 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+        <test-method status="PASS" signature="sum()[pri:0, instance:TestNgTestSessions.TestNgTest.InvocationCountTest@6e6c3152]" name="sum" duration-ms="3" started-at="2020-04-11T07:57:26 BST" finished-at="2020-04-11T07:57:26 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+        <test-method status="PASS" signature="sum()[pri:0, instance:TestNgTestSessions.TestNgTest.InvocationCountTest@6e6c3152]" name="sum" duration-ms="4" started-at="2020-04-11T07:57:26 BST" finished-at="2020-04-11T07:57:26 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+      </class> <!-- TestNgTestSessions.TestNgTest.InvocationCountTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

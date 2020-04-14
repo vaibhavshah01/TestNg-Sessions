@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [TestNg Session Test Automation Suite]">
+  <test thread-count="5" name="Different Test Feature Test(failed)">
+    <classes>
+      <class name="TestNgTestSessions.TestNgTest.GooglefeatureTest">
+        <methods>
+          <include name="teardown"/>
+          <include name="setUp"/>
+          <include name="googleLogoTest"/>
+          <include name="googleTitleTest"/>
+        </methods>
+      </class> <!-- TestNgTestSessions.TestNgTest.GooglefeatureTest -->
+    </classes>
+  </test> <!-- Different Test Feature Test(failed) -->
+</suite> <!-- Failed suite [TestNg Session Test Automation Suite] -->
